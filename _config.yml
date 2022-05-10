@@ -3,3 +3,7 @@ url: https://agnelo000.github.io/
 baseurl: /agnelo 
 title: Agnelo's Blog Homepage 
 Description: This is a blog of the projects i am doing 
+
+layout: page 
+title: "contact page"
+permalink: /about/contact
